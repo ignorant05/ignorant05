@@ -34,7 +34,6 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -82,6 +81,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
 
@@ -95,9 +95,6 @@
 
 ## 🔝 Most Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=ignorant05&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=ignorant05&color=blueviolet&style=for-the-badge)
 
 ## 📈 Advanced Metrics
 ![Metrics](https://metrics.lecoq.io/ignorant05?template=classic&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&followup=1&lines=1)

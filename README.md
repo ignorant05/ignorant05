@@ -22,37 +22,40 @@
 
 # Stats (maybe, they're interesting?)
 
-<div>
-  <p align="center">
-    <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ignorant05&theme=tokyonight&v=4" 
-      width="46%"
-    />&nbsp;
-    <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ignorant05&theme=tokyonight&v=4" 
-      width="46%"
-    />
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  </p>
-   <p align="center">
-    <img 
-      src="https://nirzak-streak-stats.vercel.app/?user=ignorant05&theme=radical&hide_border=false" 
-      width="46%"
-    />&nbsp;
-     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  </p>
-  <p align="center">
-    <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ignorant05&theme=tokyonight&v=4" 
-      width="46%"
-    />&nbsp;
-    <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ignorant05&theme=tokyonight&v=4" 
-      width="46%"
-    />
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  </p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ignorant05&show_icons=true&theme=tokyonight&count_private=true" height="170" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ignorant05&theme=tokyonight" height="170" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ignorant05&theme=tokyonight&hide_border=false" height="170" />
+  <br>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ignorant05&theme=tokyonight" height="170" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ignorant05&theme=tokyonight" height="170" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
      
 # Resume ? Enjoy...
   

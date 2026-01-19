@@ -20,7 +20,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# Stats (maybe, they're interesting?)
+### Stats (maybe, they're interesting?)
 
 <div align="center">
   <table border="0">
@@ -54,7 +54,7 @@
 </div>
 
      
-# Resume ? Enjoy...
+### Resume ? Enjoy...
   
 <div >
   <div >
@@ -64,9 +64,6 @@
         <img src="https://img.shields.io/badge/View_Resume-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Eng Resume PDF">
       </a>
       &nbsp;
-      <a href="https://github.com/ignorant05/ignorant05/raw/main/cv-oussama-eng.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/Download-Resume-green?style=for-the-badge&logo=download&logoColor=white" alt="Download">
-      </a>
     </p>
   </div>
   <div >
@@ -76,9 +73,6 @@
         <img src="https://img.shields.io/badge/View_Resume-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="French Resume PDF">
       </a>
       &nbsp;
-      <a href="https://github.com/ignorant05/ignorant05/raw/main/cv-oussama-franc.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/Download-Resume-green?style=for-the-badge&logo=download&logoColor=white" alt="Download">
-      </a>
     </p>
   </div>
 </div>

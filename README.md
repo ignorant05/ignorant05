@@ -26,10 +26,7 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ignorant05&show_icons=true&theme=tokyonight&count_private=true" height="170" />
-      </td>
-      <td>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=ignorant05&theme=tokyonight&hide_border=false" height="170" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ignorant05&theme=tokyonight" />
       </td>
     </tr>
   </table>
@@ -43,7 +40,8 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ignorant05&theme=tokyonight" height="170" />
       </td>
        <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ignorant05&theme=tokyonight" height="170" />
+          <img src="https://nirzak-streak-stats.vercel.app/?user=ignorant05&theme=tokyonight&hide_border=false" height="170" />
+        <!img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ignorant05&theme=tokyonight" height="170" />
       </td>
       <td>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ignorant05&theme=tokyonight" height="170" />
@@ -55,26 +53,31 @@
 
      
 ### Resume ? Enjoy...
-  
-<div >
-  <div >
-    <h3>English Version</h3>
-    <p>
-      <a href="https://github.com/ignorant05/ignorant05/raw/main/cv-oussama-eng.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/View_Resume-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Eng Resume PDF">
-      </a>
-      &nbsp;
-    </p>
-  </div>
-  <div >
-    <h3>French Version</h3>
-    <p>
-      <a href="https://github.com/ignorant05/ignorant05/raw/main/cv-oussama-franc.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/View_Resume-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="French Resume PDF">
-      </a>
-      &nbsp;
-    </p>
-  </div>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <h5>English Version</h5>
+        <p>
+          <a href="https://github.com/ignorant05/ignorant05/raw/main/cv-oussama-eng.pdf" target="_blank">
+            <img src="https://img.shields.io/badge/View_Resume-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Eng Resume PDF">
+          </a>
+          &nbsp;
+        </p>
+      </td>
+      <td>
+        <h5>French Version</h5>
+          <p>
+          <a href="https://github.com/ignorant05/ignorant05/raw/main/cv-oussama-franc.pdf" target="_blank">
+            <img src="https://img.shields.io/badge/View_Resume-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="French Resume PDF">
+          </a>
+          &nbsp;
+        </p>
+      </td>
+    </tr>
+  </table>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 

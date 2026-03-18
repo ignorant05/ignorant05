@@ -18,6 +18,14 @@
   </a>
 </div>
 
+
+<div align="center">
+<h3 align="center">You check my blogs through:   </h3>
+  <a href="https://medium.com/@oussamabaccara05" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank">
+  </a>
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Stats (maybe, they're interesting?)

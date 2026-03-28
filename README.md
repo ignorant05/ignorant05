@@ -18,7 +18,6 @@
   </a>
 </div>
 
-
 <div align="center">
 <h3 align="center">You check my blogs through:   </h3>
   <a href="https://medium.com/@oussamabaccara05" target="_blank">
@@ -47,10 +46,10 @@
       <td>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ignorant05&theme=tokyonight" height="170" />
       </td>
-       <td>
-          <img src="https://nirzak-streak-stats.vercel.app/?user=ignorant05&theme=tokyonight&hide_border=false" height="170" />
-        <!img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ignorant05&theme=tokyonight" height="170" />
-      </td>
+      <!--  <td> -->
+      <!--     <img src="https://nirzak-streak-stats.vercel.app/?user=ignorant05&theme=tokyonight&hide_border=false" height="170" /> -->
+      <!--   <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ignorant05&theme=tokyonight" height="170" /> --> -->
+      <!-- </td> -->
       <td>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ignorant05&theme=tokyonight" height="170" />
       </td>
